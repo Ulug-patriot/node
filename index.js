@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(cors())
 
 
-mongoose.connect('mongodb+srv://ulug_patriot:admin%402565@cluster0.e2y46.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://koinot:koinot2889@cluster0.nfkoj.mongodb.net/koinot?retryWrites=true&w=majority', {
         useNewUrlParser: true,
         useUnifiedTopology: true
     }
